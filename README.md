@@ -1,3 +1,10 @@
+HOMEWORK LINKS
+
+Task 2.1
+Manual Deployment - http://creating-my-first-rs-app.s3-website.eu-central-1.amazonaws.com/
+
+
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
